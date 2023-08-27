@@ -4,4 +4,6 @@
 
 ## To compile, use the following command
 ¤ as read_write.s -o read_write.o && ld read_write.o -o read_write
+
+## To execute
 ¤ ./read_write
